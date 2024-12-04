@@ -71,6 +71,3 @@ We welcome contributions to OpenPerplex! Please feel free to submit issues, fork
 ## 📝 License
 - MIT
 
-## 📞 Contact
-
-For any questions or feedback, please open an issue on this repository or contact me on [X](https://x.com/KhazzanYassine)  
